@@ -41,13 +41,13 @@ Before running the application first install the following.
 To use the application simply clone the repository and open with JupyterLab. Proceed to run the modules and visualize the plotted data, and view the organized data. Change the window of the data calculated in the training section to note different recall and precision factors in the testing report.  
 
 1 month of window size
-![](testing_reports/log_1mo_min)
+![](testing_reports/log_1mo_min.png)
 
 3 months of window size
-![](testing_reports/log_3mo_min)
+![](testing_reports/log_3mo_min.png)
 
 6 months of window size
-![](testing_reports/log_6mo_min)
+![](testing_reports/log_6mo_min.png)
 
 
 ---
